@@ -15,6 +15,8 @@ repository and demo folder for multi model document intelligence
 * Semantic Rerank with Language Understanding Model in Azure AI Search https://learn.microsoft.com/en-us/azure/search/semantic-search-overview
 * Azure AI Search (General Doc) https://learn.microsoft.com/en-us/azure/search/
 * Semantic Answer in Azure AI Search https://learn.microsoft.com/en-us/azure/search/semantic-answers
+* Content Understanding https://learn.microsoft.com/en-gb/azure/ai-services/content-understanding/overview
+* Content Understanding project in Azure AI Foundry https://learn.microsoft.com/en-gb/azure/ai-services/content-understanding/quickstart/use-ai-foundry#analyzer-templates
 
 ## How Semantic Ranking Works
 
