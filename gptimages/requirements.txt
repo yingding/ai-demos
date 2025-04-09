@@ -1,0 +1,6 @@
+pypdf==5.4.0
+
+azure-ai-inference==1.0.0b9
+aiohttp==3.11.16
+azure-identity==1.21.0
+
