@@ -21,6 +21,9 @@ $ENV_DIR="$env:USERPROFILE\Documents\VENV\";
 .\envtools\create_env.ps1 -VERSION $VERSION -ENV_NAME $ENV_NAME -ENV_SURFIX $ENV_SURFIX -PM $PM -WORK_DIR $ENV_DIR;
 ```
 
+Note:
+*  this script will also install the notebook kernel for the python environment automatically.
+
 ## Install packages (general)
 ```powershell
 $VERSION="3.12";
