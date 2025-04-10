@@ -30,5 +30,4 @@
 ### Code examples of Vector Search
 * examples https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/search/azure-search-documents/samples
 * Vector Search examples https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_vector_search.py
-
-
+* Indexing with Indexer https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_indexers_operations.py
