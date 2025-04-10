@@ -34,8 +34,10 @@ $ENV_FULL_NAME = "$ENV_NAME$VERSION$ENV_SURFIX";
 # with the closing "\"
 $ENV_DIR="$env:USERPROFILE\Documents\VENV\";
 
-# path or relative path of requirements.txt to install for the python venv
-$PackageFile=".\gptimages\requirements.txt";
+# absolute path of requirements.txt to install for the python venv
+$PROJ_DIR="$env:USERPROFILE\Documents\VCS\ai-demos";
+$SubProj="search" 
+$PackageFile="$PROJ_DIR\$SubProj\requirements.txt";
 
 & "$ENV_DIR$ENV_FULL_NAME\Scripts\Activate.ps1";
 Invoke-Expression "(Get-Command python).Source";
