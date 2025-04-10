@@ -11,3 +11,5 @@ azure-search-documents==11.5.2
 azure-ai-vision-imageanalysis==1.0.0
 pillow==11.1.0
 requests==2.32.3
+
+python-dotenv==1.0.1
