@@ -36,6 +36,10 @@ class EmbedResult:
         
         return self.cosine_similarity(self.vector, emb_result.vector)
     
+    # repr method also print the []
+    # def __repr__(self):
+    #     return f"EmbedResult(model_version={self.model_version}, vector=[{repr(self.vector[:3])},...], size={self.size}, error={self.error})"
+    
     def __repr__(self):
         return f"EmbedResult(model_version={self.model_version}, vector=[{",".join(list(map(str, self.vector[:3])))},...], size={self.size}, error={self.error})"
 
