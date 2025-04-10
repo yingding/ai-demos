@@ -33,3 +33,6 @@
 * Indexing with Indexer https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_indexers_operations.py
 * Azure AI Search Client Python SDK https://learn.microsoft.com/en-us/python/api/overview/azure/search-documents-readme?view=azure-python
 
+### Python
+* Self typing https://realpython.com/python-type-self/
+
