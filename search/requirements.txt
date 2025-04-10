@@ -1,0 +1,13 @@
+# Azure AI Search client lib for python
+# pull blob data using indexer
+# attach skillset to indexer
+# https://pypi.org/project/azure-search-documents/
+# To interact with the search service, 
+# you'll need to create an instance of the appropriate client class:
+# SearchClient for searching indexed documents, 
+# SearchIndexClient for managing indexes, 
+# or SearchIndexerClient for crawling data sources and loading search documents into an index.
+azure-search-documents==11.5.2 
+azure-ai-vision-imageanalysis==1.0.0
+pillow==11.1.0
+requests==2.32.3

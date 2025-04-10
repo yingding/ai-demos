@@ -27,5 +27,8 @@
 
 * Auto Indexing with Indexer (Azure AI Search) https://learn.microsoft.com/en-us/azure/search/vector-search-overview#azure-integration-and-related-services
 
+### Code examples of Vector Search
+* examples https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/search/azure-search-documents/samples
+* Vector Search examples https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_vector_search.py
 
 
