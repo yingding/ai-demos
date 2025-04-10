@@ -1,3 +1,8 @@
+# Azure AI Search
+
+[Multimodal Search with Azure AI Search](./multimodal_search.md)
+
+## References
 
 * RAG in Azure AI Search https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview
 * Skillset in Azure AI Search https://learn.microsoft.com/en-us/azure/search/cognitive-search-working-with-skillsets
@@ -14,4 +19,13 @@
 
 ### Azure AI Agent Service
 * https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357
+
+## Multi-modal search
+* AI Vision multimodal embeddings https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-vision-vectorize
+* Azure AI Vision multimodal embedding https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/image-retrieval?tabs=csharp
+* Region availability https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis?tabs=4-0#region-availability
+
+* Auto Indexing with Indexer (Azure AI Search) https://learn.microsoft.com/en-us/azure/search/vector-search-overview#azure-integration-and-related-services
+
+
 
