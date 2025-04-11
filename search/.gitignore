@@ -1,2 +1,5 @@
 *.env
-!env.example
+!.env_vision_example
+!.env_foundrymaas_example
+
+**/data/**
