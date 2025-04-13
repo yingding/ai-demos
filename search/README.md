@@ -4,6 +4,10 @@
 
 ## References
 
+### Hybrid Search
+* Hybrid Search Overview https://learn.microsoft.com/en-gb/azure/search/hybrid-search-overview
+* Python example https://github.com/Azure/azure-search-vector-samples/blob/main/README.md
+
 * RAG in Azure AI Search https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview
 * Skillset in Azure AI Search https://learn.microsoft.com/en-us/azure/search/cognitive-search-working-with-skillsets
 * AI enrichment in Azure AI Search https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-intro
