@@ -41,3 +41,5 @@
 ### Python
 * Self typing https://realpython.com/python-type-self/
 
+### Semantic Ranker
+* Attach Semantic Ranker Configuration to the index and use the Semantic Ranker to rerank the initial search results (important python sample) https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/semantic-ranker/semantic-ranker.ipynb
