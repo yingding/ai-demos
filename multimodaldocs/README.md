@@ -24,3 +24,16 @@ repository and demo folder for multi model document intelligence
 * Secondary Ranking: Semantic ranker applies a secondary ranking using deep learning models to promote the most semantically relevant results
 * Captions and Answers: The ranker can return semantic captions and optionally extract answers to improve the user's search experience [(Captions, Answers)](./caption_answer.md)
 * Query Rewrite: It can expand an initial query string into multiple semantically similar queries, correcting typos or rephrasing the query 
+
+## Useful links
+* AI search for managed identity https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-data-sources?tabs=portal-sys%2Cportal-user
+* Python samples for Azure AI Search https://learn.microsoft.com/en-us/azure/search/samples-python
+* Vector samples for Azure AI Search https://github.com/Azure/azure-search-vector-samples/blob/main/README.md
+* Index data from Azure Blob Storage https://learn.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage
+* Azure AI Search code python samples (important) https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/search/azure-search-documents/samples
+* Indexer Data Source Skill code samples (python) https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_indexer_datasource_skillset.py
+* Indexer Operations (python) sample https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_indexers_operations.py
+* Hybrid search using vectors and full text in Azure AI Search https://learn.microsoft.com/en-gb/azure/search/hybrid-search-overview
+
+
+
