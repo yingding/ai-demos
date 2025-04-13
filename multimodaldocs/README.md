@@ -23,7 +23,8 @@ repository and demo folder for multi model document intelligence
 * Initial Ranking: The search results are initially ranked using BM25 or Reciprocal Rank Fusion (RRF) [(BM25, RRF)](./keywords_and_rankfusion.md)
 * Secondary Ranking: Semantic ranker applies a secondary ranking using deep learning models to promote the most semantically relevant results
 * Captions and Answers: The ranker can return semantic captions and optionally extract answers to improve the user's search experience [(Captions, Answers)](./caption_answer.md)
-* Query Rewrite: It can expand an initial query string into multiple semantically similar queries, correcting typos or rephrasing the query 
+* Query Rewrite: It can expand an initial query string into multiple semantically similar queries, correcting typos or rephrasing the query
+* Semantic Ranker Explained (important, Notebook Sample) https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/semantic-ranker/semantic-ranker.ipynb
 
 ## Useful links
 * AI search for managed identity https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-data-sources?tabs=portal-sys%2Cportal-user
