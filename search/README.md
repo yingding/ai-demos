@@ -36,6 +36,7 @@
 * Vector Search examples https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_vector_search.py
 * Indexing with Indexer https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_indexers_operations.py
 * Azure AI Search Client Python SDK https://learn.microsoft.com/en-us/python/api/overview/azure/search-documents-readme?view=azure-python
+* Vectors in Azure AI Search (Important) https://learn.microsoft.com/en-gb/azure/search/vector-search-overview#nearest-neighbors-search
 
 ### Python
 * Self typing https://realpython.com/python-type-self/
