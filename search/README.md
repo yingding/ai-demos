@@ -44,3 +44,16 @@
 ### Semantic Ranker
 * Attach Semantic Ranker Configuration to the index and use the Semantic Ranker to rerank the initial search results (important python sample) https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/semantic-ranker/semantic-ranker.ipynb
 * Keyword and Vector Search simple Hybrid https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_vector_search.py#L175
+
+### Scoring profile
+how search scoring works in Azure AI Search https://learn.microsoft.com/en-us/azure/search/index-add-scoring-profiles#how-search-scoring-works-in-azure-ai-search
+
+1. Scoring Profiles
+Scoring profiles allow you to boost search scores based on custom parameters, such as field values, freshness, or geographic proximity. You define these profiles within your index schema.
+    * Use Case: Boosting recent documents, prioritizing certain categories, or emphasizing geographic proximity.
+    * Documentation: [Add scoring profiles - Azure AI Search](https://learn.microsoft.com/en-us/azure/search/index-add-scoring-profiles)
+
+2. Semantic Ranking
+Semantic ranking uses advanced language understanding models to rerank search results based on semantic relevance. It significantly improves the relevance of results by understanding the intent behind queries.   
+    * Use Case: Improving relevance in natural language queries, hybrid searches, and vector searches.
+    * Documentation: [Semantic ranking overview](https://learn.microsoft.com/en-us/azure/search/semantic-search-overview)
