@@ -7,6 +7,7 @@
 # SearchClient for searching indexed documents, 
 # SearchIndexClient for managing indexes, 
 # or SearchIndexerClient for crawling data sources and loading search documents into an index.
+azure-identity==1.21.0
 azure-search-documents==11.5.2 
 azure-ai-vision-imageanalysis==1.0.0
 pillow==11.1.0
