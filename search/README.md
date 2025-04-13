@@ -43,3 +43,4 @@
 
 ### Semantic Ranker
 * Attach Semantic Ranker Configuration to the index and use the Semantic Ranker to rerank the initial search results (important python sample) https://github.com/Azure/azure-search-vector-samples/blob/main/demo-python/code/semantic-ranker/semantic-ranker.ipynb
+* Keyword and Vector Search simple Hybrid https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/search/azure-search-documents/samples/sample_vector_search.py#L175
