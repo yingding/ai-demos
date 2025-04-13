@@ -3,3 +3,6 @@
 !.env_foundrymaas_example
 
 **/data/**
+
+**/__pycache__/**
+
